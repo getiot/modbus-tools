@@ -1,0 +1,5 @@
+modpoll
+modslave
+
+*.o
+*.tmp
